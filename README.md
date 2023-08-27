@@ -28,10 +28,16 @@ This Node.js application fetches orders from a Shopify store, filters them withi
 # images of output
 
 
-
+# filtered Dates between 12/12/2022 to 29/12/2022
 ![Screenshot (53)](https://github.com/manojkalyan/-ListAllOrders2-Shopify-Graphql-/assets/70328306/8dc10b45-0102-4b1a-a267-2d945bc33566)
+# response in browser
 ![Screenshot (54)](https://github.com/manojkalyan/-ListAllOrders2-Shopify-Graphql-/assets/70328306/5a55754c-d93e-47d0-96e2-013ba3fa4299)
+
+# filtered Dates between 05/12/2022 to 29/12/2022
+
 ![Screenshot (55)](https://github.com/manojkalyan/-ListAllOrders2-Shopify-Graphql-/assets/70328306/7d394457-82f1-4f81-85ab-018d64b49d8a)
+
+# response in browser
 
 ![Screenshot (56)](https://github.com/manojkalyan/-ListAllOrders2-Shopify-Graphql-/assets/70328306/e2f185da-319f-4a0a-ab86-89ff085be2cd)
 
